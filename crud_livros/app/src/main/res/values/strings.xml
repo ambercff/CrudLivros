@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">crud_livros</string>
+    <string name="nomeLivro">Nome do Livro</string>
+    <string name="autor">Autor</string>
+    <string name="editora">Editora</string>
+    <string name="id">ID</string>
+    <string name="adicionar">Add</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="excluir">Excluir</string>
+</resources>
